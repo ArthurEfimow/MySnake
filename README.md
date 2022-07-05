@@ -1,2 +1,2 @@
 # MySnake
-This is the manual. Take 2
+This is the manual. Take 3
